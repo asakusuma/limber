@@ -10,7 +10,11 @@
     "email" : "asa.kusuma@gmail.com",
     "url" : "http://asakusuma.com/"
   },
-  "dependencies": {},
+  "dependencies": {
+    "backbone":">= 1.1",
+    "lodash":"*"
+  },
+  "main":"main",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-cli": "*",
